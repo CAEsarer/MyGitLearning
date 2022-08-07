@@ -1,7 +1,5 @@
 package _01;
 
-import java.sql.SQLOutput;
-
 public class Demo  {
     public static void main(String[] args) {
 /*        int num1 = 10;
@@ -20,6 +18,6 @@ public class Demo  {
         System.out.println(chars);
         String s1 = s.substring(1);
         System.out.println(s1);
-
+        System.out.println(s1);
     }
 }
